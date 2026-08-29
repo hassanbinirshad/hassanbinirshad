@@ -14,9 +14,10 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/hassanbinirshad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hassan-bin-irshad-361660388)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassabinirshaddiscord@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-bin-irshad-361660388)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanbinirshaddiscord@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanbinirshad)
+[![VSCO](https://img.shields.io/badge/VSCO-4C1D95?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/hassansiddiquii)
 
 <br/>
 
@@ -268,6 +269,29 @@ Built with a 2-person team — designed and simulated the circuit schematic, imp
 
 ---
 
+## 💻 Neofetch
+
+<div align="center">
+
+```
+hassan@karachi
+---------------
+OS: Human.dev (Karachi Build)
+Host: Mohammad Ali Jinnah University
+Kernel: BS Computer Science 3.2 GPA
+Uptime: Since Fall 2023
+Shell: python3 / dotnet / node
+Languages: Python, C#, Java, C++, JS
+DE: VS Code / IntelliJ / Kali Linux
+Focus: Software Engineering + Cyber Security
+Interests: Photography, Videography, Cricket, Badminton
+Status: Open to Internships
+```
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
@@ -292,9 +316,10 @@ Open To:
 
 ## 📬 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassabinirshaddiscord@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hassan-bin-irshad-361660388)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanbinirshaddiscord@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-bin-irshad-361660388)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanbinirshad)
+[![VSCO](https://img.shields.io/badge/VSCO-4C1D95?style=for-the-badge&logo=vsco&logoColor=white)](https://vsco.co/hassansiddiquii)
 
 ---
 
